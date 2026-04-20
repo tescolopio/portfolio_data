@@ -1,3 +1,3 @@
-# goldman sachs
+# Goldman Sachs
 
-Career entry for goldman sachs.
+Career entry for Goldman Sachs.

@@ -1,3 +1,3 @@
-# morgan stanley
+# Morgan Stanley
 
-Career entry for morgan stanley.
+Career entry for Morgan Stanley.

@@ -1,3 +1,3 @@
-# american express
+# American Express
 
-Career entry for american express.
+Career entry for American Express.

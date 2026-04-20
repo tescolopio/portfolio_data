@@ -1,3 +1,3 @@
-# hsbc
+# HSBC
 
-Career entry for hsbc.
+Career entry for HSBC.

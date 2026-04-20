@@ -1,3 +1,3 @@
-# wells fargo
+# Wells Fargo
 
-Career entry for wells fargo.
+Career entry for Wells Fargo.

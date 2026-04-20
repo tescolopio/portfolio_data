@@ -1,3 +1,3 @@
-# citi
+# Citi
 
-Career entry for citi.
+Career entry for Citi.

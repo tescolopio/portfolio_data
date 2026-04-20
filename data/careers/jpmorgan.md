@@ -1,3 +1,3 @@
-# jpmorgan
+# JPMorgan Chase
 
-Career entry for jpmorgan.
+Career entry for JPMorgan Chase.

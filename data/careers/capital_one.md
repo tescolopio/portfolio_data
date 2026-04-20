@@ -1,3 +1,3 @@
-# capital one
+# Capital One
 
-Career entry for capital one.
+Career entry for Capital One.

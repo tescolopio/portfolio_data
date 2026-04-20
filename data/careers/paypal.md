@@ -1,3 +1,3 @@
-# paypal
+# PayPal
 
-Career entry for paypal.
+Career entry for PayPal.

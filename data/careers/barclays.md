@@ -1,3 +1,3 @@
-# barclays
+# Barclays
 
-Career entry for barclays.
+Career entry for Barclays.

@@ -1,3 +1,3 @@
-# bofa
+# Bank of America
 
-Career entry for bofa.
+Career entry for Bank of America.

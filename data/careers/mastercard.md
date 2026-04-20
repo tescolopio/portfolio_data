@@ -1,3 +1,3 @@
-# mastercard
+# Mastercard
 
-Career entry for mastercard.
+Career entry for Mastercard.
