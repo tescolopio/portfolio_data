@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio Data Loader</title>
+</head>
+<body>
+  <h1>Portfolio Data Loader</h1>
+  <pre id="output">Loading...</pre>
+  <script>
+    async function loadLinkedInData() {
+      const output = document.getElementById('output');
+      try {
+        const res = await fetch('https://raw.githubusercontent.com/tescolopio/portfolio-data/main/data/linkedin.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        output.textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        output.textContent = `Failed to load data: ${err.message}`;
+      }
+    }
+
+    loadLinkedInData();
+  </script>
+</body>
+</html>
