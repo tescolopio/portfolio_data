@@ -1,7 +1,7 @@
 {
-  "profile": {
-    "name": "Tes Colopio",
-    "headline": "Professional Portfolio",
-    "location": "United States"
-  }
+  "name": "Timmothy D. Escolopio",
+  "headline": "Principal Consultant · Compliance & IT Security Leadership",
+  "location": "Charlotte, NC",
+  "summary": "Compliance and IT security programs only work when the underlying systems, controls, and evidence pipelines are real. That is the operating model I bring to regulatory readiness, operational resilience, and data governance leadership.",
+  "skills": ["Enterprise GRC", "Cybersecurity Governance", "Data Risk Management", "AI Governance", "Operational Resilience", "Compliance Leadership"]
 }

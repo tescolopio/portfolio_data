@@ -1,17 +1,15 @@
-{
-  "files": [
-    "bofa.md",
-    "wells_fargo.md",
-    "jpmorgan.md",
-    "citi.md",
-    "goldman_sachs.md",
-    "morgan_stanley.md",
-    "barclays.md",
-    "hsbc.md",
-    "capital_one.md",
-    "american_express.md",
-    "visa.md",
-    "mastercard.md",
-    "paypal.md"
-  ]
-}
+[
+  "bofa.md",
+  "wells_fargo.md",
+  "3dtech.md",
+  "mattang.md",
+  "cardinal.md",
+  "marietta.md",
+  "central_env.md",
+  "pathfinder_schlumberger.md",
+  "quanex.md",
+  "mses.md",
+  "nov.md",
+  "mason_dixon_energy.md",
+  "starbucks.md"
+]

@@ -1,0 +1,234 @@
+{
+  "overview": {
+    "eyebrow": "Professional Profile",
+    "title": "Compliance leadership with engineering discipline",
+    "summary": "A fixed-view snapshot of Timmothy D. Escolopio: regulatory readiness, cybersecurity governance, and technical fluency built from hands-on systems work.",
+    "status": "Current Snapshot",
+    "paragraphs": [
+      "Compliance and IT security programs only work when the underlying systems, controls, and evidence pipelines are real. That is the operating model I bring to regulatory readiness, operational resilience, and data governance leadership.",
+      "My work spans highly regulated financial environments, enterprise-scale data lineage and control validation, and technical implementation outside work that keeps my judgment grounded in how systems actually behave under pressure.",
+      "This profile is intentionally structured as a single workspace: select a career period on the timeline, then switch between the relevant tabs to inspect the details without ever leaving the main frame."
+    ],
+    "metrics": [
+      { "value": "10+", "label": "Years in regulated environments" },
+      { "value": "6,000+", "label": "Applications assessed in one initiative" },
+      { "value": "0", "label": "Regulatory findings on flagship program" },
+      { "value": "2,145+", "label": "Automated tests in personal engineering work" }
+    ],
+    "spotlights": [
+      "Zero regulatory findings at Bank of America Global Information Security.",
+      "Built audit-ready programs from scratch and drove exam readiness from 15% to audit-ready in six weeks.",
+      "Maps data risk, lineage, and control performance across thousands of enterprise applications.",
+      "Builds production-grade software and infrastructure personally, which strengthens technical judgment in GRC leadership roles."
+    ]
+  },
+  "capabilities": {
+    "eyebrow": "Core Capabilities",
+    "title": "Leadership domains recruiters should see immediately",
+    "summary": "These are the operating lanes that define the value proposition: governance depth, technical fluency, and measurable delivery under scrutiny.",
+    "status": "Capability Map",
+    "items": [
+      {
+        "title": "Enterprise GRC & Regulatory Readiness",
+        "description": "Design and deliver governance, risk, and compliance programs aligned to FFIEC, NIST CSF, SOC 2, and ISO 27001. Translate regulatory expectations into controls, evidence, and repeatable operating processes."
+      },
+      {
+        "title": "Cybersecurity Program & Data Governance",
+        "description": "Map data flows, control ownership, and quality issues across large application portfolios. Build dashboards, reporting, and control-validation structures that leadership and auditors can rely on."
+      },
+      {
+        "title": "AI Governance & Emerging Technology Risk",
+        "description": "Assess how emerging systems, AI tooling, and automated decision pipelines introduce governance, privacy, and control risk. Build policy structures that are usable by technical teams, not just audit committees."
+      },
+      {
+        "title": "Operational Resilience & Crisis Leadership",
+        "description": "Lead remediation planning, gap closure, evidence collection, and cross-team accountability under tight timelines. Comfortable running high-visibility workstreams where leadership needs signal, not noise."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Technical Builds",
+    "title": "Personal systems work that sharpens professional judgment",
+    "summary": "These projects are not the main story, but they are useful evidence: they show that the compliance and security perspective is backed by real software, infrastructure, and automation experience.",
+    "status": "Outside Work",
+    "items": [
+      {
+        "repo": "tescolopio/code_scalpel_develop",
+        "name": "Code Scalpel",
+        "description": "MCP server toolkit for safe, targeted code analysis and modification. Includes AST parsing, symbolic execution, security scanning, and cross-file dependency analysis.",
+        "highlight": "2,145+ tests · 95%+ coverage · Published on PyPI",
+        "tags": ["Python", "Security", "Static Analysis", "MCP", "Z3"]
+      },
+      {
+        "repo": "tescolopio/guard_tos",
+        "name": "Terms Guardian",
+        "description": "Browser-first ML extension for evaluating Terms of Service risk. Built around weighted rights categories, measurable accuracy targets, and a privacy-first architecture.",
+        "highlight": "84.7% baseline accuracy · Chrome extension",
+        "tags": ["Machine Learning", "NLP", "Privacy", "Chrome"]
+      },
+      {
+        "repo": "Eski-Enterprises/InsightForge",
+        "name": "InsightForge",
+        "description": "AI and cybersecurity trend intelligence platform using automated collection, embeddings, sentiment analysis, and content generation workflows.",
+        "highlight": "Trend intelligence platform",
+        "tags": ["Python", "AI", "Cybersecurity", "pgvector"]
+      },
+      {
+        "repo": "3D-Tech-Solutions/mind_wars",
+        "name": "Mind Wars",
+        "description": "Containerized strategy game stack deployed as part of the wider E-Mothership infrastructure, demonstrating full-stack implementation and operations discipline.",
+        "highlight": "Live service on self-hosted infrastructure",
+        "tags": ["Docker", "Deployment", "Full-Stack"]
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Direct Contact",
+    "title": "Reach out for resilience, governance, or security leadership conversations",
+    "summary": "The intended audience is recruiters, headhunters, and hiring leaders looking for someone who can lead audit-ready programs and still understand the systems underneath them.",
+    "status": "Open to Conversation",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/tescolopio",
+        "href": "https://linkedin.com/in/tescolopio"
+      },
+      {
+        "label": "Email",
+        "value": "3dtsus@gmail.com",
+        "href": "mailto:3dtsus@gmail.com"
+      },
+      {
+        "label": "GitHub",
+        "value": "github.com/tescolopio",
+        "href": "https://github.com/tescolopio"
+      }
+    ],
+    "notes": [
+      "Target roles: Director or Senior Manager of Operational Resilience, BCDR Program Manager, and Compliance / IT Security leadership roles.",
+      "Best-fit conversations: regulatory readiness, data governance, cybersecurity program leadership, AI governance, and audit remediation strategy."
+    ]
+  },
+  "timeline": [
+    {
+      "id": "bofa",
+      "period": "Jan 2025 - Jan 2026",
+      "organization": "Bank of America",
+      "organizationShort": "BofA",
+      "division": "Global Information Security",
+      "role": "IT Security & Data Governance Consultant IV",
+      "location": "Charlotte, NC",
+      "theme": "bank",
+      "imageType": "logo",
+      "summary": "Led high-visibility audit readiness and data protection work across enterprise-scale scope, helping move a critical workstream from 15% to audit-ready in six weeks while also supporting large-scale encryption compliance visibility.",
+      "tabs": [
+        {
+          "id": "achievements",
+          "label": "Achievements",
+          "markdown": "/content/experience/bofa/achievements.md"
+        },
+        {
+          "id": "role",
+          "label": "Role",
+          "markdown": "/content/experience/bofa/role.md"
+        }
+      ]
+    },
+    {
+      "id": "wells",
+      "period": "Jul 2024 - Sep 2024",
+      "organization": "Wells Fargo",
+      "organizationShort": "WF",
+      "division": "Corporate Investment Banking",
+      "role": "Data Risk & Execution Consultant",
+      "location": "Charlotte, NC",
+      "theme": "finance",
+      "imageType": "logo",
+      "summary": "Focused on metadata analysis, risk reviews, toolkit automation, and control-gap remediation across enterprise banking systems.",
+      "tabs": [
+        {
+          "id": "achievements",
+          "label": "Achievements",
+          "markdown": "/content/experience/wells/achievements.md"
+        },
+        {
+          "id": "role",
+          "label": "Role",
+          "markdown": "/content/experience/wells/role.md"
+        }
+      ]
+    },
+    {
+      "id": "3dts",
+      "period": "Jul 2023 - Present",
+      "organization": "3D Tech Solutions LLC",
+      "organizationShort": "3DTS",
+      "division": "Principal Consulting",
+      "role": "Principal Consultant - Data Risk & GRC",
+      "location": "Charlotte, NC",
+      "theme": "builder",
+      "imageType": "logo",
+      "summary": "Independent consulting and systems-building work focused on compliance-as-code, AI governance, and deterministic analysis approaches for regulated environments.",
+      "tabs": [
+        {
+          "id": "achievements",
+          "label": "Achievements",
+          "markdown": "/content/experience/3dts/achievements.md"
+        },
+        {
+          "id": "role",
+          "label": "Role",
+          "markdown": "/content/experience/3dts/role.md"
+        }
+      ]
+    },
+    {
+      "id": "mattang",
+      "period": "Apr 2022 - Apr 2024",
+      "organization": "Mattang, Inc.",
+      "organizationShort": "MTG",
+      "division": "Fintech Startup",
+      "role": "Compliance & Data Security Manager",
+      "location": "Remote",
+      "theme": "startup",
+      "imageType": "logo",
+      "summary": "Established governance, data classification, and AI-control structures inside a startup environment working toward SOC 2 and ISO 27001 maturity.",
+      "tabs": [
+        {
+          "id": "achievements",
+          "label": "Achievements",
+          "markdown": "/content/experience/mattang/achievements.md"
+        },
+        {
+          "id": "role",
+          "label": "Role",
+          "markdown": "/content/experience/mattang/role.md"
+        }
+      ]
+    },
+    {
+      "id": "cardinal",
+      "period": "May 2021 - Mar 2022",
+      "organization": "Cardinal Logistics",
+      "organizationShort": "CLM",
+      "division": "Finance & Operations",
+      "role": "Business Analyst II / Risk Analyst",
+      "location": "Concord, NC",
+      "theme": "operations",
+      "imageType": "logo",
+      "summary": "Translated operational risk and reporting gaps into system requirements and improved reporting efficiency through SQL-based analytics redesign.",
+      "tabs": [
+        {
+          "id": "achievements",
+          "label": "Achievements",
+          "markdown": "/content/experience/cardinal/achievements.md"
+        },
+        {
+          "id": "role",
+          "label": "Role",
+          "markdown": "/content/experience/cardinal/role.md"
+        }
+      ]
+    }
+  ]
+}
